@@ -1,11 +1,25 @@
-# Hi there, I'm Amodu Oreoluwa👋
+# 👋 Hi, I’m Amodu oreoluwa  
 
+## 🚀 About Me
+- 🌱 I’m currently learning *Full Stack Development*  
+- 💡 Interested in *web development,Backend Engineering,and software development*  
+- 💼  Open to Collaboration On * 
+      - Beginner-friendly open-source projects  
+      - Frontend & Backend applications  
+      - Python projects (automation, web apps, or data-related)  
+      - Projects that help me grow as a developer *
+  
+## 🛠 Tech Stack
+- *Frontend:* HTML, CSS, JavaScript, React  
+- *Backend:* Node.js, Express, Python(Django), SQL
+- *Tools:* Git, GitHub, VS Code.  
 
-## About Me 🚀
+## 🌍 Connect With Me
+- 📞 07018965625  
+- 📧 amoduoreoluwa20@gmail.com 
+- 🔗 [LinkedIn]()  
 
-I'm a passionate Software Engineer with experience in javascript,React and Node.js. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-
+✨ “Code is a journey — every line written brings me closer to mastery.”
 
 
 
