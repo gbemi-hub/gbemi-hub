@@ -19,7 +19,7 @@
 - 📧 amoduoreoluwa20@gmail.com 
 - 🔗 [LinkedIn]()  
 
-✨ “Code is a journey — every line written brings me closer to mastery.”
+✨ “Code is a journey, every line written brings me closer to mastery.”
 
 
 
